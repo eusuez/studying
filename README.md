@@ -1,12 +1,12 @@
 # studying  and gaining experience at the moment!
 
 
-stoped: 
+--stoped: 
 
 Python
 MonoDB
 
-in processed:
+--in processed:
 
 PostgreeSQL
 JavaScript
