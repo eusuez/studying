@@ -3,12 +3,12 @@
 
 --stoped: 
 
-Python
+Python, 
 MonoDB
 
 --in processed:
 
-PostgreeSQL
-JavaScript
-CSS
+PostgreeSQL, 
+JavaScript, 
+CSS, 
 HTML5
