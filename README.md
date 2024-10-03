@@ -2,10 +2,12 @@
 
 
 stoped: 
+
 Python
 MonoDB
 
 in processed:
+
 PostgreeSQL
 JavaScript
 CSS
