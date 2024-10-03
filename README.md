@@ -4,11 +4,13 @@
 --stoped: 
 
 Python, 
-MonoDB
+MonoDB, 
+CSS, 
+HTML5
 
 --in processed:
 
 PostgreeSQL, 
 JavaScript, 
-CSS, 
-HTML5
+Node
+
